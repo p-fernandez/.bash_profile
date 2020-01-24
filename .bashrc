@@ -41,3 +41,5 @@ export NVM_DIR="$HOME/.nvm"
 
 #User aliases
 alias vim="/usr/local/bin/vim"
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
